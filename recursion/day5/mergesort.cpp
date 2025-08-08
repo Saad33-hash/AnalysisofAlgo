@@ -67,6 +67,8 @@ void merge(int *arr,int s,int e){
 }
 
 
+
+
 int main(){
     int arr[7]={38,27,43,3,9,82,10};
     int size=7;
